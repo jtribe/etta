@@ -5,6 +5,6 @@ A simple Z-axis transition between View Controllers on iOS. Extensible out the w
 Download the sample project and have a look.
 
 # References
--http://blog.jtribe.com.au/writing-a-circular-view-controller-transition-on-ios/
 
--http://blog.jtribe.com.au/writing-custom-animations-on-ios-part-ii/
+- http://blog.jtribe.com.au/writing-a-circular-view-controller-transition-on-ios/
+- http://blog.jtribe.com.au/writing-custom-animations-on-ios-part-ii/
