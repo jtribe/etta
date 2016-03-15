@@ -1,8 +1,8 @@
 # Etta - Named for Etta James
 A simple Z-axis transition between View Controllers on iOS. Extensible out the wazoo.
 
-![75%](/GIFs/depth.gif)
-![75%](/GIFs/pendulum.gif)
+![75%](/Etta/GIFs/depth.gif)
+![75%](/Etta/GIFs/pendulum.gif)
 
 # Use
 Download the sample project and have a look.
